@@ -9,7 +9,7 @@
 | バックエンド | AWS lambda | Flask    |
 | フロントエンド | Nuxt       | 生のHTML   |
 | データベース | DynamoDB   | インメモリ    |
-| LINE連携 | LINE Front-end Framework | 生のAPIを叩く |
+| LINE連携 | LINE Front-end Framework | 生のAPI |
 
 公式サンプルはAWSのサーバーレスアプリケーションモデルに従っているのに対し、本レポジトリはFlaskの入ったローカルPython環境があれば実行することができます。
 
