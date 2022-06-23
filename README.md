@@ -22,8 +22,7 @@
 ### Lineチャネル
 
 1. Line Developersコンソールからプロバイダーとチャネルを作成する
-    *
-    詳しい説明は[LINEログイン](https://developers.line.biz/ja/docs/line-login/getting-started/#line-login-starter-app-prerequisites)
+    * 詳しい説明は[LINEログイン](https://developers.line.biz/ja/docs/line-login/getting-started/#line-login-starter-app-prerequisites)
     の公式ドキュメントにあります。
 2. チャネルのLINEログイン設定のコールバックURLを `http://127.0.0.1:5000/callback` に設定する
 3. チャネルIDとシークレットを環境変数に登録する
