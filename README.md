@@ -1,6 +1,6 @@
 ## About
 
-これは、[LINEログイン](https://developers.line.biz/ja/docs/line-login/)
+これは、[LINEログイン](https://developers.line.biz/ja/docs/line-login/overview/)
 の公式サンプル（[line-api-use-case-line-login](https://github.com/line/line-api-use-case-line-login)
 ）を最小限のスタックで再実装したものです。それぞれ以下のように対応します。
 
